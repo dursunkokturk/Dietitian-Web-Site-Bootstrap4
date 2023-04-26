@@ -1,0 +1,183 @@
+/* index.html*/
+h1 em strong{
+    font-size: 1.5rem;
+}
+h3 span strong em{
+    font-size: 1.2rem;
+}
+p{
+    font-size: 1.2rem;
+}
+.div-index-Photo{
+    text-align: center;
+}
+.img-index-Photo{
+    width: 200px;
+    text-align: center;
+}
+h1 strong{
+    font-size: 1rem;
+}
+h3 strong{
+    font-size: 1rem;
+}
+.nav-item{
+    background-color: white;
+}
+.zayiflamak{
+    font-size: 1.5rem;
+}
+.powered{
+    font-size: 1rem;
+}
+.index-carousel{
+    width: 200px;
+}
+
+
+
+/*hizmetlerimiz.html*/
+.li-1{
+    padding-bottom: 3.9rem;
+}
+.li-2{
+    padding-bottom: 2.5rem;
+}
+.li-3{
+    padding-bottom: 2.5rem;
+}
+.li-4{
+    padding-bottom: 2.5rem;
+}
+.li-5{
+    padding-bottom: 2.5rem;
+}
+.li-6{
+    padding-bottom: 1.5rem;
+}
+.li-7{
+    padding-bottom: 2rem;
+}
+.li-8{
+    padding-bottom: 2.5rem;
+}
+.li-9{
+    padding-bottom: 1rem;
+}
+.li-10{
+    padding-bottom: 1rem;
+}
+.li-11{
+    padding-bottom: 1rem;
+}
+.li-12{
+    padding-bottom: 1rem;
+}
+.li-13{
+    padding-bottom: 1rem;
+}
+.li-14{
+    padding-bottom: 1rem;
+}
+.li-15{
+    padding-bottom: 1rem;
+}
+.li-16{
+    padding-bottom: 1rem;
+}
+.li-17{
+    padding-bottom: 1rem;
+}
+.li-18{
+    padding-bottom: 1rem;
+}
+.li-19{
+    padding-bottom: 1rem;
+}
+.li-20{
+    padding-bottom: 1rem;
+}
+.li-21{
+    padding-bottom: 1rem;
+}
+.li-22{
+    padding-bottom: 1rem;
+}
+.li-23{
+    padding-bottom: 1rem;
+}
+.li-24{
+    padding-bottom: 1rem;
+}
+.li-25{
+    padding-bottom: 1rem;
+}
+.li-26{
+    padding-bottom: 1rem;
+}
+
+
+
+
+
+/*online-diyet.html*/
+.online-diyet-img{
+    height: 20rem;
+}
+.online-diyet h1 strong{
+    font-size: 1.5rem;
+}
+.online-diyet h3{
+    font-size: 1rem;
+}
+.online-diyet li h5{
+    font-size: 1rem;
+}
+.online-diyet h1{
+    font-size: 2rem;
+}
+
+
+
+
+
+/*beslenme-programlari*/
+.beslenme-programlari h1{
+    font-size: 1.2rem;
+}
+
+
+
+
+
+/*bize-guvenenler*/
+.bize-guvenenler h3{
+    font-size: 1.5rem;
+}
+a h1{
+    font-size: 1.5rem;
+}
+
+
+
+
+
+/*iletisim*/
+.iletisim h3{
+    font-size: 1.2rem;
+}
+.iletisim h5{
+    font-size: 1rem;
+}
+
+
+
+
+
+/*hakkımızda*/
+.hakkimizda-1{
+    font-size: 1.5rem;
+}
+.hakkimizda-2 h5{
+    font-size: 1rem;
+}
